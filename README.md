@@ -9,3 +9,4 @@ https://components101.com/displays/7-segment-display-pinout-working-datasheet 7-
 ![front](https://github.com/gtmans/7segcounter/blob/main/IMG_2133.jpg)
 ![back](https://github.com/gtmans/7segcounter/blob/main/IMG_2134.jpg)
 
+![schematic](https://github.com/gtmans/7segcounter/blob/main/Schematic.png)
