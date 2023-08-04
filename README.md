@@ -7,5 +7,5 @@ https://www.petervis.com/GCSE_Design_and_Technology_Electronic_Products/4026-cou
 https://components101.com/displays/7-segment-display-pinout-working-datasheet 7-seg led explanation<BR><BR>
 
 fun
-
+ ![text](url)
 
