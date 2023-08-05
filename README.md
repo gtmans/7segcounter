@@ -9,5 +9,5 @@ https://components101.com/displays/7-segment-display-pinout-working-datasheet 7-
 ![front](https://github.com/gtmans/7segcounter/blob/main/IMG_2133.jpg)
 ![back](https://github.com/gtmans/7segcounter/blob/main/IMG_2134.jpg)
 
-this is the secret schematic (chip is CD4026BE)
+this is the secret schematic (chip is CD4026BE and not *595)<BR>
 ![schematic](https://github.com/gtmans/7segcounter/blob/main/Schematic.png)
