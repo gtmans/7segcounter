@@ -9,5 +9,5 @@ https://components101.com/displays/7-segment-display-pinout-working-datasheet 7-
 ![front](https://github.com/gtmans/7segcounter/blob/main/IMG_2133.jpg)
 ![back](https://github.com/gtmans/7segcounter/blob/main/IMG_2134.jpg)
 
-This is the secret schematic (chip is CD4026BE and not 74HC595 as on picture) resistors 7x220 and 2x1k ohms, capacitor 0,22uF <BR>
-![schematic](https://github.com/gtmans/7segcounter/blob/main/Schematic.png)<BR>Have fun ...
+This is the secret schematic (chip is CD4026BE and not 74HC595 as on picture) resistors 7x220 and 2x1k ohms, capacitor 0,22uF <BR><BR>
+![schematic](https://github.com/gtmans/7segcounter/blob/main/Schematic.png)<BR><BR>Have fun ...
